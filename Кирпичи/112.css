@@ -1,0 +1,21 @@
+.div{
+    box-sizing: border-0;
+}
+.elem{
+    width: 245px;
+    height: 322px;
+    border-radius: 4px;
+    border: 0.7px solid 85;
+    padding: 6px;
+
+}
+.elem-line{
+    display: flex;
+    justify-content: space-between;
+}
+.elem-line input:first-child{
+width: 158px;
+}
+.elem-line input:last-child{
+    width: 55px;
+}
